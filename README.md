@@ -6,7 +6,7 @@ O grupo é composto por:
  - Lucas Barbosa
  - Pedro Miguel
  - Pedro Rodrigues
- - Tainá Drummond
+ - Tainá Drumond
  - Thiago Vinicius
  - Tomaz
  - Vinicius Prestes
