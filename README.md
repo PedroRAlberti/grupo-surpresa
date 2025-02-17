@@ -1,7 +1,7 @@
 O grupo é composto por:
 
  - Armando
- - Eliane
+ - Eliani
  - Giovanni
  - Lucas Barbosa
  - Pedro Miguel
