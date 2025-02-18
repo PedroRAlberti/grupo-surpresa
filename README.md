@@ -1,12 +1,12 @@
 O grupo é composto por:
 
  - Armando
- - Eliane
+ - Eliani
  - Giovanni
  - Lucas Barbosa
  - Pedro Miguel
  - Pedro Rodrigues
- - Tainá Drummond
+ - Tainá Drumond
  - Thiago Vinicius
  - Tomaz
  - Vinicius Prestes
